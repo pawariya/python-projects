@@ -1,5 +1,7 @@
 
 #Project by Riya Pawar. Punnet square pairing. c:
+#This is a program that I made that allows the user to type in two alleles (supposedly from 2 different parents).
+#It will sort and pair each corresponding allele to display all the possible genotypes that the 2 parents' offspring could have.
 
 #ensuring that there are 2 bases per allele
 def check_base_count (allele):
