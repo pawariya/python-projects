@@ -2,7 +2,7 @@
 #Project by Riya Pawar. DNA Matching. c:
 #This program will allow the user to type in two DNA sequences.
 #From there, the program will calculate the simliarty between the two sequences.
-#Then, it will output the similiarty sequence.
+#Then, it will output the similiarty percentage.
 
 #makes sure that both the lengths of each sequence is the same
 def length_check(sequence1, sequence2):
