@@ -1,4 +1,4 @@
-**DNA Matching Project**
+# **DNA Matching Project**
 
 **Author:** Riya Pawar
 This project provides a program to compare two DNA sequences and calculate the similarity between them. The user will input two DNA sequences, and the program will analyze the sequences, checking for equal length and valid nucleotide characters (A, T, C, G). It then calculates the percentage of similarity between the two sequences and outputs the result.
@@ -56,7 +56,7 @@ The similarity percentage is calculated as the ratio of matching nucleotides to 
 
 -----------------------------------------------------------------------------------------------------------------
 
-**Punnett Square Pairing Project**
+# **Punnett Square Pairing Project**
 
 **Author: Riya Pawar**
 
